@@ -1,1 +1,1 @@
-This is a new file in the 1st local repository
+Conflict hereby created - from 2nd repository
