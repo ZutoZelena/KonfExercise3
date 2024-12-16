@@ -1,1 +1,1 @@
-Minor Feature 2
+New Minor Feature 2
