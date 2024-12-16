@@ -1,1 +1,1 @@
-Conflict hereby created - from 2nd repository
+Conflict hereby created - from 2nd repository and Conflict from first repository (CONFLICT NOW RESOLVED)
