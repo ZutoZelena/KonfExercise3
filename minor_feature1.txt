@@ -1,1 +1,1 @@
-Simulate Minor Feature 1.
+The real Minor Feature 1
